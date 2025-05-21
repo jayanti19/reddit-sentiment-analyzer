@@ -2,6 +2,6 @@ streamlit
 praw
 pandas
 numpy
-tensorflow==2.13.0
+tensorflow
 scikit-learn
 joblib
